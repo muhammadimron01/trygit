@@ -1,1 +1,2 @@
 Hallo, saya coba git baru
+Sekarang coba push
